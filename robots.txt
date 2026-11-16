@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After deploying, add your full address, for example:
+# Sitemap: https://your-domain.com/sitemap.xml
